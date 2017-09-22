@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TWITERS</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">bOL2vN6SwSwLP5hHRRqcAZPLZ</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Tsekpez2mhPerxd2JXMkZrVdbEpCFfDvxUKdvZlqjwhRWXdem5</string>
+
+    <!-- TweetComposer strings -->
+    <string name="twitter_composer">Twitter Composer</string>
+    <string name="twitter_kit_composer">TwitterKit Composer</string>
+    <!-- TweetComposer strings -->
+
+</resources>
